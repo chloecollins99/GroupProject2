@@ -1,0 +1,27 @@
+ID,stop_name,address,zip_code,lat,lon,line
+1,Carson,218 E. Carson Bv,28203,35.21849,-80.85155,Blue
+2,Charlotte Transportation Center/Arena,303 E. Trade St,28202,35.22545,-80.84074,Blue
+3,I-485/South Blvd,9508 South Bv,28273,43.41223,-3.69914,Blue
+4,Sharon Road West,8815 Crump Rd,28134,35.11999,-80.88224,Blue
+5,Arrowood,7717 England St,28273,-37.92222,144.62648,Blue
+6,Archdale,6230 South Bv,28217,43.41223,-3.69914,Blue
+7,Tyvola,5703 Old Pineville Rd,28217,35.16169,-80.87669,Blue
+8,Woodlawn,4756 Old Pineville Rd,28217,35.17585,-80.87937,Blue
+9,Scaleybark,3750 South Bv,28209,43.41223,-3.69914,Blue
+10,New Bern,129 New Bern St,28203,35.19978,-80.86896,Blue
+11,East/West,1821 Camden St,28203,39.82339,-89.61671,Blue
+12,Bland St,1511 Camden Rd,28203,35.21541,-80.85578,Blue
+13,3rd St/Convention Center,305 E. 3rd St,28202,40.57137,-89.81116,Blue
+14,7th St,260 E. 7th St,28202,43.448299,-76.496033,Blue
+15,Stonewall,260 E. Stonewall St,28202,35.22162,-80.84689,Blue
+16,9th Street,239 E 9th St,28202,42.03035,-93.60688,Blue
+17,Parkwood,401 Parkwood Ave,28206,44.102852,-79.56234,Blue
+18,25th Street,2215 N Brevard St,28206,35.24118,-80.81751,Blue
+19,36th Street,400 E 36th St,28206,43.22444,-79.84547,Blue
+20,Tom Hunter,6501 N Tryon St,28213,35.27771,-80.76673,Blue
+21,JW Clay Blvd,9101 N Tryon St,28262,35.310631,-80.745872,Blue
+22,Old Concord Rd,5600 Old Concord Rd,28213,35.26209,-80.77248,Blue
+23,Sugar Creek,700 E Sugar Creek Rd,28205,40.144081,-86.735428,Blue
+24,UNC Charlotte,9025 Cameron Blvd,28262,35.31227,-80.73393,Blue
+25,University City Blvd,7201 N Tryon St,28262,35.33299,-80.72168,Blue
+26, McCullough,8315 N Tryon St,28262,35.30073,-80.75344,Blue
