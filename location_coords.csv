@@ -298,16 +298,16 @@ id,location,address,city,zip_code,lat,lon,category,state,info
 297,Dr. Whitley Building,4311 Hillside Dr,Charlotte,,35.1790088,-80.8464208,Historic,NC,Vernacular
 298,Settler's Cemetery,200 W Fifth St,Charlotte,,35.229648,-80.843079,Historic,NC,Cemetery
 299,East Ave Tabernacle A.R.P. Church (former),926 Elizabeth Ave,Charlotte,,35.2193755,-80.8340161,Historic,NC,Neoclassical
-300,Huntersville,Huntersville North Carolina,,28078,35.44353,-80.89683,Red,,
-301,Sam Furr,"Sam Furr Rd, Huntersville, NC",,28078,35.45088,-80.81907,Red,,
-302,Cornelius,"Cornelius, NC",,28031,35.48491,-80.85885,Red,,
-303,Davidson,"Davidson, NC",,28035,35.499249,-80.848488,Red,,
-304,Hambright,"Hambright Rd, Huntersville NC",,28078,35.37755,-80.83361,Red,,
-305,Derita,"Derita Rd, Charlotte NC",,28269,35.3011,-80.80568,Red,,
-306,Harris,"W.T Harris Blvd, Charlotte NC",,28269,35.16676,-80.74255,Red,,
-307,Eastfield,"Arthur Davis Rd, Charlotte NC",,28269,35.36379,-80.81981,Red,,
-308,Mount Mourne,"Mecklenburg, Hwy, Davidson NC",,28117,35.54801,-80.84613,Red,,
-309,Charlotte Gateway Station,"West Trade Street Charlotte, North Carolina",,28202,35.23131,-80.84773,Red,,
+300,Huntersville,Huntersville North Carolina,,28078,35.44353,-80.89683,Red,,6
+301,Sam Furr,"Sam Furr Rd, Huntersville, NC",,28078,35.45088,-80.81907,Red,,7
+302,Cornelius,"Cornelius, NC",,28031,35.48491,-80.85885,Red,,8
+303,Davidson,"Davidson, NC",,28035,35.499249,-80.848488,Red,,9
+304,Hambright,"Hambright Rd, Huntersville NC",,28078,35.37755,-80.83361,Red,,5
+305,Derita,"Derita Rd, Charlotte NC",,28269,35.3011,-80.80568,Red,,2
+306,Harris,"W.T Harris Blvd, Charlotte NC",,28269,35.16676,-80.74255,Red,,3
+307,Eastfield,"Arthur Davis Rd, Charlotte NC",,28269,35.36379,-80.81981,Red,,4
+308,Mount Mourne,"Mecklenburg, Hwy, Davidson NC",,28117,35.54801,-80.84613,Red,,10
+309,Charlotte Gateway Station,"West Trade Street Charlotte, North Carolina",,28202,35.23131,-80.84773,Red,,1
 310,Third Ward / McNinch St,,,,35.22903501,-80.85607994,Silver,,
 311,Ashley Rd,,,,35.2242649,-80.89012956,Silver,,
 312,Airport,,,,35.23548999,-80.94358811,Silver,,

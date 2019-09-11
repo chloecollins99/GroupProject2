@@ -1,11 +1,11 @@
-stop_name,address,city,zip_code,lat,lon,category,state,info
-Huntersville,Huntersville North Carolina,,28078,35.44353,-80.89683,Red,,
-Sam Furr,"Sam Furr Rd, Huntersville, NC",,28078,35.45088,-80.81907,Red,,
-Cornelius,"Cornelius, NC",,28031,35.48491,-80.85885,Red,,
-Davidson,"Davidson, NC",,28035,35.499249,-80.848488,Red,,
-Hambright,"Hambright Rd, Huntersville NC",,28078,35.37755,-80.83361,Red,,
-Derita,"Derita Rd, Charlotte NC",,28269,35.3011,-80.80568,Red,,
-Harris,"W.T Harris Blvd, Charlotte NC",,28269,35.16676,-80.74255,Red,,
-Eastfield,"Arthur Davis Rd, Charlotte NC",,28269,35.36379,-80.81981,Red,,
-Mount Mourne,"Mecklenburg, Hwy, Davidson NC",,28117,35.54801,-80.84613,Red,,
-Charlotte Gateway Station,"West Trade Street Charlotte, North Carolina",,28202,35.23131,-80.84773,Red,,
+location,address,city,zip_code,lat,lon,category,state,info
+Charlotte Gateway Station,"West Trade Street Charlotte, North Carolina",,28202,35.23131,-80.84773,Red,,1
+Derita,"Derita Rd, Charlotte NC",,28269,35.3011,-80.80568,Red,,2
+Harris,"W.T Harris Blvd, Charlotte NC",,28269,35.33518,-80.82504,Red,,3
+Eastfield,"Arthur Davis Rd, Charlotte NC",,28269,35.35358,-80.82208,Red,,4
+Hambright,"Hambright Rd, Huntersville NC",,28078,35.37755,-80.83361,Red,,5
+Huntersville,Huntersville North Carolina,,28078,35.41094,-80.84099,Red,,6
+Sam Furr,"Sam Furr Rd, Huntersville, NC",,28078,35.44984,-80.8434,Red,,7
+Cornelius,"Cornelius, NC",,28031,35.4812,-80.85783,Red,,8
+Davidson,"Davidson, NC",,28035,35.50061,-80.8498,Red,,9
+Mount Mourne,"Mecklenburg, Hwy, Davidson NC",,28117,35.54767,-80.84895,Red,,10
