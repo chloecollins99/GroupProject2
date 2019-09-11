@@ -1,1 +1,1 @@
-gkey = "GOOGLE API KEY"
+gkey = "get google api"

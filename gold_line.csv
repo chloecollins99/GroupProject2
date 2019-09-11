@@ -1,36 +1,36 @@
 location,address,city,zip_code,lat,lon,category,state,info
-LaSalle Street,,,,35.26298,-80.8547,Gold,,
-Russell Av,,,,35.25703,-80.85558,Gold,,
-Booker Avenue/Oaklawn,,,,35.2538,-80.85597,Gold,,
-French Street,,,,35.24685,-80.85679,Gold,,
-Johnson C. Smith University,,,,35.24173,-80.85869,Gold,,
-Bruns Avenue,,,,35.24026,-80.85843,Gold,,
-Wesley Heights Way,,,,35.2371,-80.85866,Gold,,
-Johnson & Wales,,,,35.2338,-80.85113,Gold,,
-Charlotte Gateway Station,,,,35.23131,-80.84773,Gold,,
-Mint Street,,,,35.22942,-80.84566,Gold,,
-Tryon Street,,,,35.2272,-80.84307,Gold,,
-Hawthorne and 5th,,,,35.23285,-80.81108,Gold,,
-Veterans Park,,,,35.21974,-80.80409,Gold,,
-Morningside Drive,,,,35.2193,-80.79923,Gold,,
-Arnold Drive,,,,35.21796,-80.7944,Gold,,
-Briar Creek Road,,,,35.21695,-80.79093,Gold,,
-Eastway Drive,,,,35.21553,-80.78065,Gold,,
-Sheridan Drive,,,,35.21448,-80.77286,Gold,,
-Derby Acres,,,,35.21374,-80.77026,Gold,,
-Landsdale Dr/Rosehaven Dr,,,,35.21247,-80.76433,Gold,,
-Winterfield Place,,,,35.21082,-80.75911,Gold,,
-Eastland Mall,,,,35.19299,-80.76105,Gold,,
-Elizabeth and Hawthorne,,,,35.2129,-80.82559,Gold,,
-Eastway Crossing,,,,35.21591,-80.78447,Gold,,
-Barnhardt,,,,35.22132,-80.81854,Gold,,
-Rosa Parks Place,,,,35.2732,-80.85441,Gold,,
-Montana Dr,,,,35.26828,-80.854,Gold,,
-CTC/Arena,,,,35.22545,-80.84074,Gold,,
-Davidson St,,,,35.2229,-80.83801,Gold,,
-Central Piedmont Community College,,,,35.20272,-80.82971,Gold,,
-McDowell Street,,,,35.22122,-80.83608,Gold,,
-Hawthorne and 8th,,,,35.23285,-80.81108,Gold,,
-The Plaza,,,,35.22026,-80.8108,Gold,,
-Sunnyside,,,,35.21981,-80.81881,Gold,,
-Irwin Avenue,,,,35.23477,-80.85246,Gold,,
+LaSalle Street,,,,35.26298,-80.8547,Gold,,3
+Russell Av,,,,35.25703,-80.85558,Gold,,4
+Booker Avenue/Oaklawn,,,,35.2538,-80.85597,Gold,,5
+French Street,,,,35.24685,-80.85679,Gold,,6
+Johnson C. Smith University,,,,35.24173,-80.85869,Gold,,7
+Bruns Avenue,,,,35.24026,-80.85843,Gold,,8
+Wesley Heights Way,,,,35.2371,-80.85866,Gold,,9
+Johnson & Wales,,,,35.2338,-80.85113,Gold,,11
+Charlotte Gateway Station,,,,35.23131,-80.84773,Gold,,12
+Mint Street,,,,35.22942,-80.84566,Gold,,13
+Tryon Street,,,,35.2272,-80.84307,Gold,,14
+Hawthorne and 5th,,,,35.23285,-80.81108,Gold,,20
+Veterans Park,,,,35.21974,-80.80409,Gold,,25
+Morningside Drive,,,,35.2193,-80.79923,Gold,,26
+Arnold Drive,,,,35.21796,-80.7944,Gold,,27
+Briar Creek Road,,,,35.21695,-80.79093,Gold,,28
+Eastway Drive,,,,35.21553,-80.78065,Gold,,30
+Sheridan Drive,,,,35.21448,-80.77286,Gold,,31
+Derby Acres,,,,35.21374,-80.77026,Gold,,32
+Landsdale Dr/Rosehaven Dr,,,,35.21247,-80.76433,Gold,,33
+Winterfield Place,,,,35.21082,-80.75911,Gold,,34
+Eastland Mall,,,,35.19299,-80.76105,Gold,,35
+Elizabeth and Hawthorne,,,,35.2129,-80.82559,Gold,,18
+Eastway Crossing,,,,35.21591,-80.78447,Gold,,29
+Barnhardt,,,,35.22132,-80.81854,Gold,,23
+Rosa Parks Place,,,,35.2732,-80.85441,Gold,,1
+Montana Dr,,,,35.26828,-80.854,Gold,,2
+CTC/Arena,,,,35.22545,-80.84074,Gold,,15
+Davidson St,,,,35.2229,-80.83801,Gold,,16
+Central Piedmont Community College,,,,35.20272,-80.82971,Gold,,19
+McDowell Street,,,,35.22122,-80.83608,Gold,,17
+Hawthorne and 8th,,,,35.23285,-80.81108,Gold,,21
+The Plaza,,,,35.22026,-80.8108,Gold,,24
+Sunnyside,,,,35.21981,-80.81881,Gold,,22
+Irwin Avenue,,,,35.23477,-80.85246,Gold,,10
