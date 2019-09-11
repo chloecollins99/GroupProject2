@@ -1,0 +1,398 @@
+id,location,address,city,zip_code,lat,lon,category,state,info
+1,Erwin-Oehler House Acreage,14401 Huntersville-Concord Rd,Huntersville,,35.4168189,-80.804446,Historic,NC,Land
+2,McLaughlin-Bost House,415 W John St,Matthews,,35.1185515,-80.7270503,Historic,NC,19th Century Vernacular
+3,Park Avenue Mill Village,411 Park Ave,Pineville,,35.0815703,-80.8936154,Historic,NC,Mill Village
+4,Hamilton Jones House,201 Cherokee Rd,Charlotte,,35.2016519,-80.8212345,Historic,NC,Tudor Revival
+5,Pineville Commercial Block,318 Main St,Pineville,,35.0858685,-80.8906765,Historic,NC,Commercial
+6,W.D. Beaty House,2400 Park Ln,Charlotte,,35.251844,-80.948175,Historic,NC,Victorian
+7,John Hunter House,5607 Sardis Rd,Charlotte,,35.162133,-80.784307,Historic,NC,Greek Revival
+8,Mint Museum of Art,2730 Randolph Rd,Charlotte,,35.1973424,-80.8146806,Historic,NC,Federal
+9,Randolph Scott House,1301 Dilworth Rd,Charlotte,,35.2099933,-80.8438767,Historic,NC,Colonial Revival
+10,Hoskins Mill,201 S Hoskins Rd,Charlotte,,35.2638694,-80.8859437,Historic,NC,Cotton Mill
+11,Big Rock Rock Shelter,6500 Elmstone Dr,Charlotte,,35.061696,-80.826982,Historic,NC,Exposed Boulders
+12,Tompkins Machine Shop,1900 South Blvd,Charlotte,,35.2109954,-80.8592995,Historic,NC,Industrial
+13,McCausland Building-Thacker's Restaurant,221 S Tryon St,Charlotte,,35.2259534,-80.8446717,Historic,NC,Commercial
+14,Providence Presbyterian Church,10140 Providence Church Ln,Charlotte,,35.0718152,-80.7726629,Historic,NC,Federal
+15,Jones-Garibald House,228 E Park Ave,Charlotte,,35.2127163,-80.8547955,Historic,NC,Neoclassical
+16,Torrance House & Store,8231 Gilead Rd,Huntersville,,35.4072248,-80.8863543,Historic,NC,Federal
+17,Crutchfield-Bomar-Brem House,307 East Blvd,Charlotte,,35.2108956,-80.8560495,Historic,NC,Queen Anne
+18,McCausland Building-Thacker's Restaurant,221 S Tryon St,Charlotte,,35.2259534,-80.8446717,Historic,NC,Commercial
+19,Providence Women's Club Community House,9735 Community House Rd,Charlotte,,35.036843,-80.8278094,Historic,NC,Log
+20,Thrift Depot of the Piedmont & Northern Railroad Company,8030 Old Mt Holly Rd,Charlotte,,35.276944,-80.939734,Historic,NC,19th Century Train Station
+21,Morgan School,510 S Torrence St,Charlotte,,35.2101413,-80.8334971,Historic,NC,Beaux Arts
+22,Wadsworth House,400 S Summit Ave,Charlotte,,35.2332763,-80.8609786,Historic,NC,Bungalow
+23,Ratcliffe-Otterbourg House,2100 Randolph Rd,Charlotte,,35.2072553,-80.8215805,Historic,NC,Bungalow
+24,Smithville Rosenwald School,19412 South Hill St,Cornelius,,35.4803883,-80.8717221,Historic,NC,Vernacular
+25,Dinkins Property Cemetery,10600 Nations Ford Rd,Charlotte,,35.1179777,-80.906904,Historic,NC,Cemetery
+26,Stratton House,923 W Fourth St Ext,Charlotte,,35.2326797,-80.8539275,Historic,NC,Land
+27,Leeper & Wyatt Store ,1923 South Blvd,Charlotte,,35.2100379,-80.8593356,Historic,NC,Commercial
+28,Rural Hill Plantation,4020 Neck Rd,Charlotte,,35.381546,-80.9520749,Historic,NC,Vernacular
+29,Holt-Henderson-Copeland House,305 N Main St,Davidson,,35.5009264,-80.8480498,Historic,NC,Victorian Italianate
+30,Robinson House,8716 Steele Creek Rd,Charlotte,,35.169252,-80.964521,Historic,NC,Vernacular
+31,Charlotte Fire Station # 4,420 W Fifth St,Charlotte,,35.23128,-80.8453255,Historic,NC,1920s Fire Station
+32,Rogers House,524 East Blvd,Charlotte,,35.2082886,-80.8536713,Historic,NC,Dutch Colonial
+33,Neel House,5517 Samuel Neel Rd,Charlotte,,35.148086,-80.999814,Historic,NC,Federal
+34,Falls Store,300 Mock Rd,Davidson,,35.4997501,-80.8530767,Historic,NC,1950s Commercial
+35,Heath & Reid General Store,196 S Trade St,Matthews,,35.1145429,-80.7242352,Historic,NC,Commercial
+36,Park Avenue Mill Village,425 Park Ave,Pineville,,35.082306,-80.8950308,Historic,NC,Mill Village
+37,Blythe Homestead,16001 Beatties Ford Rd,Charlotte,,35.428827,-80.921331,Historic,NC,Federal (altered)
+38,Park Avenue Mill Village,424 Park Ave,Pineville,,35.0826816,-80.8947823,Historic,NC,Mill Village
+39,Frederick Apartments,515 N Church St,Charlotte,,35.2318842,-80.8395521,Historic,NC,Italian Renaissance
+40,Charlotte City Hall,600 E Trade St,Charlotte,,35.2220747,-80.8381681,Historic,NC,Beaux Arts
+41,Holly Bend,3701 Neck Rd,Charlotte,,35.38286,-80.957026,Historic,NC,Federal
+42,Query-Spivey-McGee Building,600 S College St,Charlotte,,35.2223914,-80.8479417,Historic,NC,Commercial
+43,Wing Haven ,260 Ridgewood Ave,Charlotte,,35.179162,-80.8413036,Historic,NC,Colonial Revival
+44,Thies Building,113 E Eighth St,Charlotte,,35.2299251,-80.8380572,Historic,NC,Land
+45,Yandell Hotel & Grocery Store,331 Main St,Pineville,,35.085623,-80.891169,Historic,NC,Commercial
+46,Agricultural Building (Long Creek),9213 Beatties Ford Rd,Huntersville,,35.3508363,-80.8894366,Historic,NC,Eclectic
+47,Davidson Colored School/Ada Jenkins School,212 Gamble St,Davidson,,35.4989337,-80.8537586,Historic,NC,20th Century School 
+48,McAuley Road Farmland,15425 McAuley Rd,Huntersville,,35.4252651,-80.7820938,Historic,NC,Farmland
+49,Louise Cotton Mill,1101 Hawthorne Ln,Charlotte,,35.2250319,-80.8183365,Historic,NC,Textile Mill
+50,City House,500 E Kingston Ave,Charlotte,,35.2098736,-80.8532389,Historic,NC,Queen Anne
+51,Funderburk-Plaxco House,316 E Matthews St,Matthews,,35.1170175,-80.7187347,Historic,NC,Italianate
+52,Nebel Knitting Mill Annex,127 W Worthington Ave,Charlotte,,35.2117507,-80.8608705,Historic,NC,Art Moderne
+53,Delburg Cotton Mill House,303 Delburg St,Davidson,,35.5041191,-80.849866,Historic,NC,Mill Village
+54,Rural Hill Plantation Expansion,4598 Neck Rd,Charlotte,,35.380953,-80.944877,Historic,NC,Land
+55,Torrance Mill,7828 Gilead Rd,Huntersville,,35.4061477,-80.895128,Historic,NC,Grist/Saw Mill
+56,Craig House,900 Ardsley Rd,Charlotte,,35.2014488,-80.8300369,Historic,NC,Tudor Revival
+57,Coco Cola Company Bottling Plant,1401 W Morehead St,Charlotte,,35.2286536,-80.8642861,Historic,NC,Art Deco
+58,Gateway & Century Building,402 W Trade St,Charlotte,,35.2298887,-80.8457795,Historic,NC,Neoclassical
+59,Mallonee-Jones House,400 E Kingston Ave,Charlotte,,35.2106859,-80.8544064,Historic,NC,Queen Anne
+60,Bank of Huntersville (former),100 Main St,Huntersville,,35.410837,-80.8410873,Historic,NC,Commercial
+61,Shotgun House A,711 E Seventh St,Charlotte,,35.2243523,-80.8336554,Historic,NC,Shotgun
+62,Cedar Grove Land,8315 Gilead Rd,Huntersville,,35.4084229,-80.883031,Historic,NC,Land
+63,Park Avenue Mill Village,412 Park Ave,Pineville,,35.0819967,-80.8936154,Historic,NC,Mill Village
+64,Cedar Grove Land,8200 Gilead Rd,Huntersville,,35.406148,-80.889106,Historic,NC,Land
+65,Independence Park,300 Hawthorne Ln,Charlotte,,35.214054,-80.8233757,Historic,NC,Park
+66,Star of St. Matthews Lodge #566,124 Morris Rd,Matthews,,35.1093385,-80.7109115,Historic,NC,Concrete Masonry Unit
+67,Lyles-Sims House,523 N Poplar St,Charlotte,,35.2326584,-80.8401951,Historic,NC,Queen Anne
+68,Grinnell/General Fire Extinguisher Company,1501 W Morehead St,Charlotte,,35.228775,-80.865576,Historic,NC,Commercial/Industrial
+69,Mecklenburg Mill,3327 N Davidson St,Charlotte,,35.2493528,-80.8023935,Historic,NC,Vernacular
+70,Matthews Post Office (former),195 N Trade St,Matthews,,35.1169983,-80.7218099,Historic,NC,Neoclassical
+71,Ziem House,1812 E Eighth St,Charlotte,,35.2151101,-80.8196339,Historic,NC,Foursquare
+72,Erwin-Oehler House Acreage,14401 Huntersville-Concord Rd,Huntersville,,35.4168189,-80.804446,Historic,NC,Land
+73,Bagley-Mullen House,129 N Poplar St,Charlotte,,35.2298359,-80.8442443,Historic,NC,Queen Anne
+74,Sloan-Davidson House,314 W Eighth St,Charlotte,,35.2324853,-80.8410897,Historic,NC,Victorian
+75,St. Mark's Episcopal Church,8600 Mt Holly-Huntersville Rd,Charlotte,,35.3479401,-80.8808207,Historic,NC,Gothic Revival
+76,Bradford Farm,15908 Davidson-Concord Rd,Huntersville,,35.4425178,-80.7737017,Historic,NC,Queen Anne I
+77,Restormel,829 Concord Rd,Davidson,,35.493675,-80.834408,Historic,NC,Colonial Revival
+78,Long Creek Mill Ruin,8604 Beatties Ford Rd,Charlotte,,35.345722,-80.882087,Historic,NC,Mill Ruin
+79,Thrift Mill,8300 Moore's Chapel Rd,Charlotte,,35.277188,-80.944716,Historic,NC,Cotton Mill
+80,Pineville Commercial Block,320 Main St,Pineville,,35.085957,-80.8907197,Historic,NC,Commercial
+81,McManaway House,1700 Queens Rd,Charlotte,,35.1920586,-80.829453,Historic,NC,Italianate
+82,Standard Oil Company of New Jersey Filling Station,1010 N Tryon St,Charlotte,,35.2347136,-80.8322644,Historic,NC,Craftsman
+83,W.P.A. Douglas Airport Hangar,4108 Minuteman Way,Charlotte,,35.225001,-80.933704,Historic,NC,Art Deco
+84,Red Front Department Store,1125 Belmont Ave,Charlotte,,35.226652,-80.819294,Historic,NC,20th Century Commercial
+85,Hand Pharmacy Building,3201 N Davidson St,Charlotte,,35.2471884,-80.8058116,Historic,NC,Vernacular
+86,Neely Slave Cemetery,13501 South Ridge Dr,Charlotte,,35.1107399,-80.9598206,Historic,NC,Cemetery (slave)
+87,Myers Park Streetcar Waiting Station,101 Hermitage Rd,Charlotte,,35.2057483,-80.8286312,Historic,NC,Bungalow
+88,Oakley House,129 Main St,Pineville,,35.0848693,-80.8881696,Historic,NC,Craftsman
+89,Cedar Grove House,8229 Gilead Rd,Huntersville,,35.4072152,-80.8876294,Historic,NC,Greek Revival
+90,Ingleside,7725 Bud Henderson Rd,Charlotte,,35.4048836,-80.9095579,Historic,NC,Italianate
+91,Treloar. William House,328 E Seventh St,Charlotte,,35.226658,-80.836748,Historic,NC,Renaissance Revival
+92,Newcombe-McElwee House,2817 Belvedere Ave,Charlotte,,35.227721,-80.795922,Historic,NC,Tudor Revival
+93,Croft School,9200 Bob Beatty Rd,Huntersville,,35.3470276,-80.8227052,Historic,NC,Vernacular
+94,Park Avenue Mill Village,409 Park Ave,Pineville,,35.081472,-80.8934425,Historic,NC,Mill Village
+95,Joseph Sykes Brothers Building,1445 S Mint St,Charlotte,,35.2191447,-80.8601354,Historic,NC,Commercial
+96,Park Avenue Mill Village,421 Park Ave,Pineville,,35.0820716,-80.8946094,Historic,NC,Mill Village
+97,Davidson School,251 South St,Davidson,,35.4961266,-80.8488066,Historic,NC,Modern
+98,Pineville Commercial Block,312 Main St,Pineville,,35.085849,-80.8904171,Historic,NC,Commercial
+99,Carnegie Library Building (old) (JCSU Campus),160 Beatties Ford Rd,Charlotte,,35.243604,-80.856864,Historic,NC,Neoclassical
+100,Addison Apartment Building,831 E Morehead St,Charlotte,,35.2143225,-80.844547,Historic,NC,Neoclassical 
+101,Trolley Walk,2100 E Seventh St,Charlotte,,35.2112057,-80.8169951,Historic,NC,Walk
+102,Scott-Hoke House,1717 Cleveland Ave,Charlotte,,35.2112231,-80.8558765,Historic,NC,Queen Anne
+103,Charlotte Coliseum,2700 E Independence Blvd,Charlotte,,35.205058,-80.7951951,Historic,NC,Modern
+104,Carolina Cadillac Company,1310 S Tryon St,Charlotte,,35.2183846,-80.8546009,Historic,NC,Classical Revival
+105,Grand Theater,333 Beatties Ford Rd,Charlotte,,35.2455718,-80.8572818,Historic,NC,20th Century Commercial
+106,Latta Arcade,316 S Tryon St,Charlotte,,35.2253511,-80.8461491,Historic,NC,Beaux Arts
+107,Bradford Store,15908 Davidson-Concord Rd,Huntersville,,35.4425178,-80.7737017,Historic,NC,Rural Vernacular
+108,Hayes-Byrum Store & House,8510 Steele Creek Rd,Charlotte,,35.1707888,-80.9597429,Historic,NC,Vernacular
+109,Thies Building,500 N Tryon St,Charlotte,,35.2300897,-80.8383411,Historic,NC,Commercial
+110,First United Presbyterian Church,201 E Seventh St,Charlotte,,35.2285772,-80.8383195,Historic,NC,Gothic Revival
+111,Steele Creek Presbyterian Church,7407 Steele Creek Rd,Charlotte,,35.1831633,-80.955094,Historic,NC,Gothic Revival
+112,Carter Hall (JCSU Campus),160 Beatties Ford Rd,Charlotte,,35.243604,-80.856864,Historic,NC,Gothic Revival
+113,Harrill-Porter House,329 E Kingston Ave,Charlotte,,35.2112295,-80.8542766,Historic,NC,Vernacular
+114,Matthews School,100 E McDowell St,Matthews,,35.1131116,-80.7224351,Historic,NC,Colonial Revival
+115,McQuay House,3200 Tuckaseegee Rd,Charlotte,,35.2437491,-80.8806919,Historic,NC,Vernacular Colonial Revival
+116,Mecklenburg County Courthouse,700 E Trade St,Charlotte,,35.2213738,-80.8373464,Historic,NC,Neoclassical
+117,Providence Women's Club Community House (land),9735 Community House Rd,Charlotte,,35.036843,-80.8278094,Historic,NC,Land
+118,Park Avenue Mill Village,415 Park Ave,Pineville,,35.0817735,-80.8940476,Historic,NC,Mill Village
+119,Charlotte Fire Station # 7,3210 N Davidson St,Charlotte,,35.2470734,-80.8051409,Historic,NC,Storefront Style
+120,Atherton Mill House,2005 Cleveland Ave,Charlotte,,35.2086296,-80.8587302,Historic,NC,Mill House
+121,McCausland Building-Thacker's Restaurant,221 S Tryon St,Charlotte,,35.2259534,-80.8446717,Historic,NC,Commercial
+122,Builders Building,312 W Trade St,Charlotte,,35.2295153,-80.8453471,Historic,NC,Commercial
+123,McAuley Road Farmland,16101 McAuley Rd,Huntersville,,35.430402,-80.782185,Historic,NC,Farmland
+124,Crowell-Berryhill Store,401 W Ninth St,Charlotte,,35.2336176,-80.8407881,Historic,NC,Commercial
+125,Carolina Transfer & Storage Company Building,1230 W Morehead St,Charlotte,,35.2292824,-80.8619802,Historic,NC,Industrial
+126,Golden House (Moore-Golden),1701 E Eighth St,Charlotte,,35.2166593,-80.8206937,Historic,NC,Bungalow
+127,Mayer House,311 East Blvd,Charlotte,,35.2107515,-80.8558333,Historic,NC,Victorian
+128,Grier-Rea House,6701 Providence Rd,Charlotte,,35.1169523,-80.7784843,Historic,NC,Federal
+129,First National Bank Building,112 S Tryon St,Charlotte,,35.227144,-80.8439222,Historic,NC,Bank Commercial
+130,Park Avenue Mill Village,408 Park Ave,Pineville,,35.0817936,-80.8931832,Historic,NC,Mill Village
+131,Independence Park,300 Hawthorne Ln,Charlotte,,35.214054,-80.8233757,Historic,NC,Park
+132,Park Avenue Mill Village,427 Park Ave,Pineville,,35.0824157,-80.8952145,Historic,NC,Mill Village
+133,Grinnell/General Fire Extinguisher Company,1435 W Morehead St,Charlotte,,35.2281115,-80.8644538,Historic,NC,Commercial/Industrial
+134,Goff House,1116 Queens Rd,Charlotte,,35.199733,-80.8312696,Historic,NC,Colonial Revival
+135,Big Rock Rock Shelter,6500 Elmstone Dr,Charlotte,,35.061696,-80.826982,Historic,NC,Exposed Boulders
+136,Independence Park,300 Hawthorne Ln,Charlotte,,35.214054,-80.8233757,Historic,NC,Park
+137,Thies House,600 Ardsley Rd,Charlotte,,35.2019647,-80.825625,Historic,NC,Colonial Revival
+138,Nebel Knitting Mill,101 W Worthington Ave,Charlotte,,35.2114756,-80.860049,Historic,NC,Cotton Mill
+139,Villalonga-Alexander House,301 E Park Ave,Charlotte,,35.2128046,-80.8539956,Historic,NC,Colonial Revival
+140,Henderson-King House,4723 Stafford Cir,Charlotte,,35.1767986,-80.790126,Historic,NC,Queen Anne
+141,Park Avenue Mill Village,426 Park Ave,Pineville,,35.0827291,-80.8949876,Historic,NC,Mill Village
+142,Grier-Furr House,500 W John St,Matthews,,35.1194136,-80.7271803,Historic,NC,Vernacular
+143,Park Avenue Mill Village,414 Park Ave,Pineville,,35.0821409,-80.8938315,Historic,NC,Mill Village
+144,Park Avenue Mill Village,416 Park Ave,Pineville,,35.0822425,-80.8940476,Historic,NC,Mill Village
+145,Erwin-Oehler House,14401 Huntersville-Concord Rd,Huntersville,,35.4168189,-80.804446,Historic,NC,Federal
+146,Lambeth-Gosset House,923 Granville Rd,Charlotte,,35.1987557,-80.8270957,Historic,NC,Bungalow
+147,St. Peter's Hospital,229 N Poplar St,Charlotte,,35.2307,-80.8432929,Historic,NC,Classical Revival
+148,Cohen-Fumaro House,1154 Cedarwood Ln,Charlotte,,35.1948253,-80.7547197,Historic,NC,Modern
+149,Pineville Commercial Block (including interior),316 Main St,Pineville,,35.0859046,-80.89059,Historic,NC,Commercial
+150,Agricultural Building (Huntersville),200 Gilead Rd,Huntersville,,35.410907,-80.846714,Historic,NC,Eclectic
+151,Caldwell Station School,17616 Caldwell Station School Rd,Huntersville,,35.4514375,-80.8421365,Historic,NC,Schoolhouse Vernacular
+152,North Carolina Medical College Building,229 N Church St,Charlotte,,35.2297569,-80.8423631,Historic,NC,Classical Revival
+153,Mabonsie,312 S Thompson St,Davidson,,35.4934335,-80.8432497,Historic,NC,Rustic Log Cabin
+154,Electric Supply & Equipment Company Building,501 Penman St,Charlotte,,35.2219849,-80.8584039,Historic,NC,Mill Style
+155,Flow-Lee House,4122 Hoodridge Ln,Charlotte,,35.1649225,-80.6644456,Historic,NC,Vernacular
+156,Pineville Commercial Block,324 Main St,Pineville,,35.085957,-80.8908601,Historic,NC,Commercial
+157,Osborne House,12445 Ramah Church Rd,Huntersville,,35.4244685,-80.8274417,Historic,NC,Vernacular
+158,Huntersville Town Jail,301 Huntersville-Concord Rd,Huntersville,,35.4112515,-80.8403954,Historic,NC,Municipal Building
+159,Park Avenue Mill Village,410 Park Ave,Pineville,,35.0818951,-80.8933993,Historic,NC,Mill Village
+160,McElroy House,10915 Beatties Ford Rd,Huntersville,,35.369784,-80.902322,Historic,NC,Victorian
+161,Mayfair Manor (Dunhill Hotel),237 N Tryon St,Charlotte,,35.228915,-80.84119,Historic,NC,Skyscraper
+162,Parks-Cramer Company Complex,2000 South Blvd,Charlotte,,35.20955,-80.8604813,Historic,NC,Textile Industrial
+163,Woodlawn Avenue Duplex,210 S Irwin Ave,Charlotte,,35.23351,-80.854333,Historic,NC,Vernacular Mission
+164,Parks Hutchinson School,1400 N Graham St,Charlotte,,35.2416574,-80.8337566,Historic,NC,Neoclassical
+165,Hermitage Court Gateways,400 Hermitage Ct,Charlotte,,35.2051703,-80.8244646,Historic,NC,Bungalow
+166,Grinnell/General Fire Extinguisher Company,1431 W Morehead St,Charlotte,,35.2287588,-80.8653627,Historic,NC,Commercial/Industrial
+167,Liddel-McNinch House,511 N Church St,Charlotte,,35.2316495,-80.8396303,Historic,NC,Queen Anne
+168,Elm & Oak Row (Davidson College Campus),405 N Main St,Davidson,,35.502236,-80.847517,Historic,NC,Federal
+169,Helms-Bell House,2021 Euclid Ave,Charlotte,,35.207276,-80.857905,Historic,NC,Queen Anne
+170,Johnston Building,212 S Tryon St,Charlotte,,35.2263394,-80.8450011,Historic,NC,Skyscraper
+171,Pineville Commercial Block,328 Main St,Pineville,,35.0858927,-80.8909634,Historic,NC,Commercial
+172,Independence Park,300 Hawthorne Ln,Charlotte,,35.214054,-80.8233757,Historic,NC,Park
+173,Stratton House,911 W Fourth St Ext,Charlotte,,35.2326927,-80.8538442,Historic,NC,Tudor Revival
+174,Hopewell Presbyterian Church,10500 Beatties Ford Rd,Charlotte,,35.3662879,-80.8978887,Historic,NC,Federal
+175,Hoyle House,11511 Smith Rd,Cornelius,,35.4766624,-80.8506228,Historic,NC,Foursquare
+176,Providence Women's Club Community House (land),9735 Community House Rd,Charlotte,,35.036843,-80.8278094,Historic,NC,Land
+177,Stone Entry Gates (JCSU Campus),100 Beatties Ford Rd,Charlotte,,35.243588,-80.8569359,Historic,NC,Bungalow
+178,Potts Place,11901 Smith Rd,Cornelius,,35.4774546,-80.8443092,Historic,NC,Log (altered)
+179,Wing Haven ,248 Ridgewood Ave,Charlotte,,35.1790014,-80.8408711,Historic,NC,Colonial Revival
+180,Charlotte Fire Station # 2,1212 South Blvd,Charlotte,,35.2169631,-80.8518552,Historic,NC,Classical Revival
+181,Long Creek Mill Ruin,8508 Beatties Ford Rd,Charlotte,,35.345707,-80.880215,Historic,NC,Mill Ruin
+182,Gautier-Gilchrist House,320 E Park Ave,Charlotte,,35.2120547,-80.8539307,Historic,NC,Colonial Revival
+183,Funderburk Brothers Building,157 N Trade St,Matthews,,35.1165629,-80.722243,Historic,NC,Commercial
+184,Davidson Cotton Mill,209 Delburg St,Davidson,,35.5038998,-80.8489363,Historic,NC,Cotton Mill
+185,Arthur Smith Studios,5457 Monroe Rd,Charlotte,,35.1891977,-80.7707367,Historic,NC,Modern Recording Studio
+186,Berryhill House,324 W Ninth St,Charlotte,,35.2336649,-80.8402676,Historic,NC,Victorian Italianate
+187,Philip Carey Building,301 E Seventh St,Charlotte,,35.2277354,-80.8373248,Historic,NC,Commercial
+188,Home Federal Savings & Loan,139 S Tryon St,Charlotte,,35.2262475,-80.8437902,Historic,NC,Modernist
+189,Carolina Theatre (old),230 N Tryon St,Charlotte,,35.2283029,-80.8406229,Historic,NC,Mediterranean
+190,Duke Mansion (Lynnwood),400 Hermitage Rd,Charlotte,,35.2015003,-80.8273552,Historic,NC,Colonial Revival
+191,McAuley Road Farmland,15832 McAuley Rd,Huntersville,,35.430848,-80.779901,Historic,NC,Farmland
+192,Renfrow Hardware Store,188 N Trade St,Matthews,,35.116444,-80.7215283,Historic,NC,Commercial
+193,Unity Church Cabin/Lingle Hut,219 Watson St,Davidson,,35.5017039,-80.85103,Historic,NC,Depression-Era
+194,Robinson Rock House Ruin,9763 Plaza Rd Ext,Newell,,35.263912,-80.707594,Historic,NC,Pioneer Rock Ruin
+195,Charlotte Fire Station # 6,249 S Laurel Ave,Charlotte,,35.2026446,-80.822251,Historic,NC,Bungalow
+196,First Baptist Church (Spirit Square),318 N Tryon St,Charlotte,,35.229039,-80.839981,Historic,NC,Byzantine Revival
+197,Biddle Hall (JCSU Campus),160 Beatties Ford Rd,Charlotte,,35.243604,-80.856864,Historic,NC,Romanesque Revival
+198,Torrence-Lytle School,302 Holbrooks Rd,Huntersville,,35.4000847,-80.8262599,Historic,NC,Vernacular
+199,Park Avenue Mill Village,413 Park Ave,Pineville,,35.0816751,-80.8938747,Historic,NC,Mill Village
+200,Mecklenburg Investment Company Building,229 S Brevard St,Charlotte,,35.2230253,-80.8419955,Historic,NC,Commercial
+201,Funderburk Brothers Blacksmith Shop & Grist Mill,130 Library Ln,Matthews,,35.1168711,-80.7223729,Historic,NC,Commercial
+202,Morrocroft,3550 Governor's Ln,Charlotte,,35.1597409,-80.822902,Historic,NC,Tudor Revival
+203,Palmer Fire School,2601 E Seventh St,Charlotte,,35.205523,-80.808742,Historic,NC,Vernacular
+204,Mt. Zion Methodist Church Parsonage,19631 S Main St,Cornelius,,35.47691,-80.8552712,Historic,NC,Victorian
+205,Midwood Elementary School,1817 Central Ave,Charlotte,,35.2206938,-80.8088401,Historic,NC,Traditional Revival
+206,McClintock Rosenwald School,14008 Erwin Rd,Charlotte,,35.11709,-80.978129,Historic,NC,Vernacular
+207,Grace A.M.E. Zion Church,219 S Brevard St,Charlotte,,35.2231038,-80.8416279,Historic,NC,Gothic Revival
+208,Rosedale,3427 N Tryon St,Charlotte,,35.25479,-80.805716,Historic,NC,Federal
+209,Park Avenue Mill Village,417 Park Ave,Pineville,,35.0819209,-80.8943069,Historic,NC,Mill Village
+210,McIntyre Historic Site,5801 Beatties Ford Rd,Charlotte,,35.312376,-80.864174,Historic,NC,Log (ruin)
+211,Ratcliffe Florist Shop,431 S Tryon St,Charlotte,,35.224118,-80.847178,Historic,NC,Mediterranean
+212,St. Lloyd Presbyterian Church Cemetery,Colony Rd & Sharon Township Ln,Charlotte,,35.1575889,-80.8274623,Historic,NC,Graveyard/Cemetery
+213,Massey-Clark House,232 N Trade St,Matthews,,35.1177075,-80.7204029,Historic,NC,Vernacular
+214,R.F. Outen Pottery Land,430 Jefferson St,Matthews,,35.1151023,-80.7290208,Historic,NC,Land
+215,Sloan-Porter House,10124 Walkers Ferry Rd,Charlotte,,35.21682,-80.985283,Historic,NC,Log Cabin/Farmhouse
+216,Renfrow-Lemmond House,344 W John St,Matthews,,35.1183431,-80.7254479,Historic,NC,Craftsman
+217,Armature Winding Company Complex,1001 W First St,Charlotte,,35.2302834,-80.8565899,Historic,NC,20th Century Industrial
+218,Charlotte Cotton Mills,508 W Fifth St,Charlotte,,35.2319447,-80.8459525,Historic,NC,Vernacular
+219,Forbis-Venn House,5607 Matthews-Mint Hill Rd,Charlotte,,35.161186,-80.6703615,Historic,NC,Federal
+220,Welch-McIntosh House,3301 Gibbon Rd,Charlotte,,35.3016182,-80.8111764,Historic,NC,Queen Anne
+221,Newell Rosenwald School,1204 Torrence Grove Church Rd,Newell,,35.2791471,-80.7434626,Historic,NC,Vernacular
+222,Sugaw Creek Schoolhouse,101 W Sugar Creek Rd,Charlotte,,35.2590999,-80.795857,Historic,NC,Federal
+223,Johnston Mill,3315 N Davidson St,Charlotte,,35.2487718,-80.8040296,Historic,NC,Cotton Mill
+224,Southern Power Company Transformer House,210 Delburg St,Davidson,,35.5041996,-80.8484174,Historic,NC,Romanesque Revival
+225,VanLandingham Estate,2010 The Plaza,Charlotte,,35.229461,-80.807743,Historic,NC,Bungalow
+226,Hawthorne Lane United Methodist Church,501 Hawthorne Ln,Charlotte,,35.2173079,-80.8213859,Historic,NC,Gothic Revival
+227,Hovis-Spratt House,1405 Hawfield Rd,Charlotte,,35.2695481,-80.9911866,Historic,NC,Federal
+228,John B. Ross & Company Mill,1000 NC Music Factory Blvd,Charlotte,,35.239118,-80.8460599,Historic,NC,Textile Mill
+229,Advent Christian Church,831 E Morehead St,Charlotte,,35.2143225,-80.844547,Historic,NC,Gothic Revival
+230,Helper Hotel (Carolina Inn),215 N Main St,Davidson,,35.5004828,-80.8483525,Historic,NC,Greek Revival
+231,Eastover Elementary School,500 Cherokee Rd,Charlotte,,35.196573,-80.821349,Historic,NC,Colonial Revival
+232,Rural Hill Plantation Expansion,4100 Neck Rd,Charlotte,,35.3831149,-80.948505,Historic,NC,Land
+233,Hennigan Place,3503 Tilley Morris Rd,Charlotte,,35.0564866,-80.7481388,Historic,NC,Greek Revival
+234,Crane Company Building,1307 W Morehead St,Charlotte,,35.2287104,-80.8626302,Historic,NC,Industrial Warehouse
+235,Eastover Elementary School,Cherokee Rd & Cherokee Pl,Charlotte,,35.1971777,-80.8209212,Historic,NC,Land
+236,Thompson Orphanage Chapel,1129 E Third St,Charlotte,,35.216187,-80.833153,Historic,NC,Gothic Revival
+237,Hovis Funeral Home,516 N Tryon St,Charlotte,,35.2304898,-80.8379632,Historic,NC,Neoclassical
+238,Cashion & Moore Family Cemetery,McAuley Rd @ Davidson-Concord Rd,Davidson,,35.4452738,-80.781185,Historic,NC,Cemetery
+239,Park Avenue Mill Village,423 Park Ave,Pineville,,35.0822159,-80.8948255,Historic,NC,Mill Village
+240,Stratton House,911 W Fourth St Ext,Charlotte,,35.2326927,-80.8538442,Historic,NC,Land
+241,Dinkins House & Lodge,2400 Summerlake Rd,Charlotte,,35.127448,-80.796785,Historic,NC,Federal
+242,Dilworth Airplane Bungalow,2144 Park Rd,Charlotte,,35.2007068,-80.8525038,Historic,NC,Airplane Bungalow
+243,Philanthropic Hall (Davidson College Campus),216 N Main St,Davidson,,35.500364,-80.8469609,Historic,NC,Greek Revival
+244,Mt. Carmel Baptist Church,412 Campus St,Charlotte,,35.2462266,-80.8580601,Historic,NC,Gothic Revival
+245,Cooper Log House,5621 Mt Olive Church Rd,Charlotte,,35.204005,-80.973831,Historic,NC,Log
+246,Little Rock A.M.E. Zion Church,401 N Myers St,Charlotte,,35.2237953,-80.8328051,Historic,NC,Neoclassical
+247,Shotgun House B,715 E Seventh St,Charlotte,,35.2243129,-80.833624,Historic,NC,Shotgun
+248,Biddleville Cemetery,Cemetery St & French St,Charlotte,,35.248364,-80.859752,Historic,NC,Graveyard/Cemetery
+249,Park Avenue Mill Village,420 Park Ave,Pineville,,35.0824277,-80.8943825,Historic,NC,Mill Village
+250,McCausland Building-Thacker's Restaurant,221 S Tryon St,Charlotte,,35.2259534,-80.8446717,Historic,NC,Commercial
+251,Ranson House,412 S Old Statesville Rd,Huntersville,,35.4051924,-80.8419739,Historic,NC,Colonial Revival
+252,Highland Park Mill No. 3,2901 N Davidson St,Charlotte,,35.2461366,-80.809316,Historic,NC,Vernacular
+253,Sherrill-Robbins House,19726 Zion Ave,Cornelius,,35.4785748,-80.8554009,Historic,NC,Queen Anne
+254,Bryant Park,1701 W Morehead St,Charlotte,,35.227481,-80.87057,Historic,NC,Rustic Revival
+255,Reynolds-Gourmajenko House,715 Providence Rd,Charlotte,,35.2002745,-80.8246734,Historic,NC,Tuscan Revival
+256,Beaver Dam House,19600 Davidson-Concord Rd,Davidson,,35.475572,-80.817654,Historic,NC,Log (altered)
+257,Providence Women's Club Community House (land),9735 Community House Rd,Charlotte,,35.036843,-80.8278094,Historic,NC,Land
+258,Atherton Cotton Mills,2108 South Blvd,Charlotte,,35.2076899,-80.8617784,Historic,NC,Cotton Mill
+259,Phillips House and Morris Barn,131 W Charles St,Matthews,,35.1175369,-80.7227194,Historic,NC,Craftsman Style Bungalow
+260,Roseland Cemetery,10252 Monroe Rd,Matthews,,35.1327939,-80.73721,Historic,NC,Cemetery
+261,Pineville Commercial Block,314 Main St,Pineville,,35.085808,-80.8906073,Historic,NC,Commercial
+262,Seaboard Air Line Railroad Station,945 N College St,Charlotte,,35.2340722,-80.8327835,Historic,NC,Classical Revival
+263,Bethesda Schoolhouse,10520 Arthur Davis Rd,Huntersville,,35.3647178,-80.8193799,Historic,NC,Vernacular
+264,Charlotte's Woman's Club,1001 E Morehead St,Charlotte,,35.2130419,-80.8433794,Historic,NC,Regency Revival
+265,Excelsior Club,921 Beatties Ford Rd,Charlotte,,35.2519153,-80.8564819,Historic,NC,Art Moderne
+266,Edgewood Farmhouse,11132 Eastfield Rd,Huntersville,,35.36889,-80.809684,Historic,NC,Federal
+267,Myers Park Streetcar Waiting Station,101 Queens Rd,Charlotte,,35.211348,-80.826729,Historic,NC,Bungalow
+268,Siloam School,10008 John Adams Rd,Charlotte,,35.3360105,-80.7386453,Historic,NC,Rural Vernacular
+269,American Legion Memorial Stadium,310 N Kings Dr,Charlotte,,35.219053,-80.8292151,Historic,NC,Art Deco
+270,Overcarsh House,326 W Eighth St,Charlotte,,35.2328047,-80.8414441,Historic,NC,Queen Anne
+271,Textile Mill Supply Company Building,1300 S Mint St,Charlotte,,35.2213133,-80.8577911,Historic,NC,Mill Building
+272,Mt. Zion Lutheran Church,1605 Luther St,Charlotte,,35.2099686,-80.8310858,Historic,NC,Gothic Revival
+273,Wing Haven ,240 Ridgewood Ave,Charlotte,,35.1792177,-80.8414766,Historic,NC,Colonial Revival
+274,Young-Morrison House,224 W Tenth St,Charlotte,,35.2336269,-80.838102,Historic,NC,Vernacular
+275,Charlotte Fire Station # 5,224 Wesley Heights Way,Charlotte,,35.2371433,-80.8613408,Historic,NC,Spanish Eclectic
+276,Pineville Commercial Block,322 Main St,Pineville,,35.085945,-80.890772,Historic,NC,Commercial
+277,Poplar Apartments,301 W Tenth St,Charlotte,,35.2334882,-80.839098,Historic,NC,Jacobethan Revival
+278,Rowland-Clay House,606 E Charles St,Matthews,,35.1125845,-80.7148365,Historic,NC,Craftsman
+279,Alpha Cotton Mill,220 Alpha Mill Ln,Charlotte,,35.2314364,-80.8313432,Historic,NC,Cotton Mill
+280,R.F. Outen Pottery,430 Jefferson St,Matthews,,35.1151023,-80.7290208,Historic,NC,Workshop/Pottery
+281,Sandifer House,12601 Moore's Chapel Rd,Charlotte,,35.255603,-80.999925,Historic,NC,Vernacular
+282,Gluyas House,7314 Mt Holly-Huntersville Rd,Huntersville,,35.4036369,-80.8446044,Historic,NC,Vernacular
+283,First Associate Reformed Presbyterian Church,721 N Tryon St,Charlotte,,35.2327343,-80.8361786,Historic,NC,Gothic Revival
+284,Pineville Commercial Block (including interior),330 Main St,Pineville,,35.0859853,-80.8910422,Historic,NC,Commercial
+285,Eumenean Hall (Davidson College Campus),405 N Main St,Davidson,,35.502236,-80.847517,Historic,NC,Greek Revival
+286,Charlotte Water Works/Vest Station,820 Beatties Ford Rd,Charlotte,,35.2498786,-80.8564326,Historic,NC,Art Deco
+287,Elmwood/Pinewood Cemetery,700 W Sixth St,Charlotte,,35.234098,-80.847333,Historic,NC,Cemetery
+288,McEwen-Moore Farmhouse,2035 Moore Rd,Matthews,,35.116343,-80.693063,Historic,NC,19th Century Vernacular
+289,Edgewood Farmhouse,11124 Eastfield Rd,Huntersville,,35.369376,-80.810606,Historic,NC,Federal
+290,McAuley Road Farmland,16040 McAuley Rd,Huntersville,,35.434133,-80.778691,Historic,NC,Farmland
+291,Dr. Elmer H. Garinger High School,1100 Eastway Dr,Charlotte,,35.2409597,-80.7819839,Historic,NC,Modernist School
+292,Defiance Sock Mills,520 Elliot St,Charlotte,,35.2306548,-80.8578432,Historic,NC,Mill
+293,Park Avenue Mill Village,422 Park Ave,Pineville,,35.0825063,-80.894577,Historic,NC,Mill Village
+294,Armour-Adams House,626 N Main St,Davidson,,35.5059468,-80.8443253,Historic,NC,Folk Victorian
+295,Oak Lawn,12510 Oak Park Dr,Huntersville,,35.3959468,-80.8756992,Historic,NC,Federal
+296,White Oak,7729 Hood Rd,Charlotte,,35.248561,-80.6909639,Historic,NC,Federal
+297,Dr. Whitley Building,4311 Hillside Dr,Charlotte,,35.1790088,-80.8464208,Historic,NC,Vernacular
+298,Settler's Cemetery,200 W Fifth St,Charlotte,,35.229648,-80.843079,Historic,NC,Cemetery
+299,East Ave Tabernacle A.R.P. Church (former),926 Elizabeth Ave,Charlotte,,35.2193755,-80.8340161,Historic,NC,Neoclassical
+300,Huntersville,Huntersville North Carolina,,28078,35.44353,-80.89683,Red,,
+301,Sam Furr,"Sam Furr Rd, Huntersville, NC",,28078,35.45088,-80.81907,Red,,
+302,Cornelius,"Cornelius, NC",,28031,35.48491,-80.85885,Red,,
+303,Davidson,"Davidson, NC",,28035,35.499249,-80.848488,Red,,
+304,Hambright,"Hambright Rd, Huntersville NC",,28078,35.37755,-80.83361,Red,,
+305,Derita,"Derita Rd, Charlotte NC",,28269,35.3011,-80.80568,Red,,
+306,Harris,"W.T Harris Blvd, Charlotte NC",,28269,35.16676,-80.74255,Red,,
+307,Eastfield,"Arthur Davis Rd, Charlotte NC",,28269,35.36379,-80.81981,Red,,
+308,Mount Mourne,"Mecklenburg, Hwy, Davidson NC",,28117,35.54801,-80.84613,Red,,
+309,Charlotte Gateway Station,"West Trade Street Charlotte, North Carolina",,28202,35.23131,-80.84773,Red,,
+310,Third Ward / McNinch St,,,,35.22903501,-80.85607994,Silver,,
+311,Ashley Rd,,,,35.2242649,-80.89012956,Silver,,
+312,Airport,,,,35.23548999,-80.94358811,Silver,,
+313,West Morehead St / Suttle Ave,,,,35.22325991,-80.87230828,Silver,,
+314,Belmont,,,,35.25133432,-81.02651348,Silver,,
+315,Matthews Sportsplex,,,,35.1120937,-80.70513449,Silver,,
+316,Sam Wilson,,,,35.24167941,-80.98263006,Silver,,
+317,Coliseum / Ovens,,,,35.20371608,-80.79608098,Silver,,
+318,Fourth Ward / Graham St,,,,35.23532754,-80.84189885,Silver,,
+319,Matthews Township Parkway,,,,35.12634967,-80.72825131,Silver,,
+320,Charlotte Gateway Station,,,,35.23098566,-80.84843092,Silver,,
+321,Village Lake Dr,,,,35.15804741,-80.74870265,Silver,,
+322,Stafford Dr,,,,35.23366993,-80.9319175,Silver,,
+323,Pecan Ave,,,,35.21807332,-80.81479933,Silver,,
+324,Central Ave,,,,35.22087677,-80.82631392,Silver,,
+325,Conference Dr,,,,35.18179773,-80.75569473,Silver,,
+326,CPCC Levine,,,,35.10332384,-80.69742148,Silver,,
+327,Morningside Dr,,,,35.21328262,-80.80343634,Silver,,
+328,Sardis Rd / Galleria,,,,35.13641361,-80.73775368,Silver,,
+329,Matthews Downtown / Hospital,,,,35.11950578,-80.71641363,Silver,,
+330,Remont Rd,,,,35.22401776,-80.88321106,Silver,,
+331,Wesley Heights / Summit Ave,,,,35.22693341,-80.86484601,Silver,,
+332,Morris Field Dr,,,,35.22682311,-80.91124593,Silver,,
+333,Sharon Amity Rd,,,,35.19365496,-80.76628392,Silver,,
+334,Amity Gardens,,,,35.20097447,-80.77928479,Silver,,
+335,I-485,,,,35.2390923,-80.96564316,Silver,,
+336,First Ward / Blue Line,,,,35.23080459,-80.83347308,Silver,,
+337,LaSalle Street,,,,35.26298,-80.8547,Gold,,
+338,Russell Av,,,,35.25703,-80.85558,Gold,,
+339,Booker Avenue/Oaklawn,,,,35.2538,-80.85597,Gold,,
+340,French Street,,,,35.24685,-80.85679,Gold,,
+341,Johnson C. Smith University,,,,35.24173,-80.85869,Gold,,
+342,Bruns Avenue,,,,35.24026,-80.85843,Gold,,
+343,Wesley Heights Way,,,,35.2371,-80.85866,Gold,,
+344,Johnson & Wales,,,,35.2338,-80.85113,Gold,,
+345,Charlotte Gateway Station,,,,35.23131,-80.84773,Gold,,
+346,Mint Street,,,,35.22942,-80.84566,Gold,,
+347,Tryon Street,,,,35.2272,-80.84307,Gold,,
+348,Hawthorne and 5th,,,,35.23285,-80.81108,Gold,,
+349,Veterans Park,,,,35.21974,-80.80409,Gold,,
+350,Morningside Drive,,,,35.2193,-80.79923,Gold,,
+351,Arnold Drive,,,,35.21796,-80.7944,Gold,,
+352,Briar Creek Road,,,,35.21695,-80.79093,Gold,,
+353,Eastway Drive,,,,35.21553,-80.78065,Gold,,
+354,Sheridan Drive,,,,35.21448,-80.77286,Gold,,
+355,Derby Acres,,,,35.21374,-80.77026,Gold,,
+356,Landsdale Dr/Rosehaven Dr,,,,35.21247,-80.76433,Gold,,
+357,Winterfield Place,,,,35.21082,-80.75911,Gold,,
+358,Eastland Mall,,,,35.19299,-80.76105,Gold,,
+359,Elizabeth and Hawthorne,,,,35.2129,-80.82559,Gold,,
+360,Eastway Crossing,,,,35.21591,-80.78447,Gold,,
+361,Barnhardt,,,,35.22132,-80.81854,Gold,,
+362,Rosa Parks Place,,,,35.2732,-80.85441,Gold,,
+363,Montana Dr,,,,35.26828,-80.854,Gold,,
+364,CTC/Arena,,,,35.22545,-80.84074,Gold,,
+365,Davidson St,,,,35.2229,-80.83801,Gold,,
+366,Central Piedmont Community College,,,,35.20272,-80.82971,Gold,,
+367,McDowell Street,,,,35.22122,-80.83608,Gold,,
+368,Hawthorne and 8th,,,,35.23285,-80.81108,Gold,,
+369,The Plaza,,,,35.22026,-80.8108,Gold,,
+370,Sunnyside,,,,35.21981,-80.81881,Gold,,
+371,Irwin Avenue,,,,35.23477,-80.85246,Gold,,
+372,Carson,218 E. Carson Bv,,28203,35.2189047,-80.8518354,Blue,,
+373,Charlotte Transportation Center/Arena,303 E. Trade St,,28202,35.22551,-80.8408697,Blue,,
+374,I-485/South Blvd,9508 South Bv,,28273,35.1068785,-80.8822372,Blue,,
+375,Sharon Road West,8815 Crump Rd,,28134,35.119992,-80.882237,Blue,,
+376,Arrowood,7717 England St,,28273,35.134202,-80.876641,Blue,,
+377,Archdale,6230 South Bv,,28217,35.15068,-80.876791,Blue,,
+378,Tyvola,5703 Old Pineville Rd,,28217,35.1621374,-80.8778377,Blue,,
+379,Woodlawn,4756 Old Pineville Rd,,28217,35.1762003,-80.8792882,Blue,,
+380,Scaleybark,3750 South Bv,,28209,35.192032,-80.875522,Blue,,
+381,New Bern,129 New Bern St,,28203,35.199771,-80.868959,Blue,,
+382,East/West,1821 Camden St,,28203,35.2124302,-80.8588616,Blue,,
+383,Bland St,1511 Camden Rd,,28203,35.2156759,-80.8553325,Blue,,
+384,3rd St/Convention Center,305 E. 3rd St,,28202,35.222255,-80.8454297,Blue,,
+385,7th St,260 E. 7th St,,28202,35.227316,-80.838126,Blue,,
+386,Stonewall,260 E. Stonewall St,,28202,35.2212868,-80.8469943,Blue,,
+387,9th Street,239 E 9th St,,28202,35.229536,-80.835229,Blue,,
+388,Parkwood,401 Parkwood Ave,,28206,35.236962,-80.823927,Blue,,
+389,25th Street,2215 N Brevard St,,28206,35.2412926,-80.8173566,Blue,,
+390,36th Street,400 E 36th St,,28206,35.2493225,-80.806048,Blue,,
+391,Tom Hunter,6501 N Tryon St,,28213,35.2777079,-80.766727,Blue,,
+392,JW Clay Blvd,9101 N Tryon St,,28262,35.309976,-80.7462621,Blue,,
+393,Old Concord Rd,5600 Old Concord Rd,,28213,35.2620859,-80.772476,Blue,,
+394,Sugar Creek,700 E Sugar Creek Rd,,28205,35.2516738,-80.7912187,Blue,,
+395,UNC Charlotte,9025 Cameron Blvd,,28262,35.3117307,-80.7337632,Blue,,
+396,University City Blvd,7201 N Tryon St,,28262,35.2867468,-80.7611487,Blue,,
+397,McCullough,8315 N Tryon St,,28262,35.3007092,-80.7534531,Blue,,
