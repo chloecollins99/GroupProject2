@@ -1,1 +1,1 @@
-gkey = "AIzaSyAClrTGmkJKLULKAZlXL5vvhT7pKXQygiM"
+gkey = "GOOGLE API KEY"
